@@ -1,0 +1,56 @@
+/* order page */
+
+.orderPage {
+    margin-top: 100px;
+    height: 100vh;
+}
+
+.flex-c {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.flex-r {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.orderDetails {
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+.box-1 {
+    margin: 10px;
+}
+
+.box-1 img {
+    border-radius: 10px;
+}
+
+.rating i {
+    font-size: 25px;
+    padding-left: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+    .orderDetails .details {
+        margin-top: -15px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .orderPage {
+        margin-top: 0px;
+        padding-bottom: 30px;
+    }
+    .orderPage h1 {
+        font-size: 34px;
+    }
+    .orderPage h3 {
+        font-size: 25px;
+    }
+}
