@@ -2,9 +2,7 @@
   "name": "foodorderingapp",
   "version": "1.0.0",
   "description": "FoodOrdering MERN App",
-  "engines": {
-    "node": "14.x"
-  },
+ 
   "main": "server.js",
   "type": "module",
   "scripts": {
