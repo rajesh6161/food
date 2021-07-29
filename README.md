@@ -1,2 +1,2 @@
-# Food Ordering Webapp --> Term Project for IWT 2021
+# Food Ordering Webapp
 https://apricot-shortcake-87695.herokuapp.com
